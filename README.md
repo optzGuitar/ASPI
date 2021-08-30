@@ -1,3 +1,5 @@
+# DEPRECATED SEE [MY COMPOSER PROJECT](https://github.com/optzGuitar/music_analysis)
+
 # ASPI
 
 **WORK IN PROGRESS**
